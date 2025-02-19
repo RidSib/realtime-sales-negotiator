@@ -7,6 +7,7 @@ A voice-based AI shopping assistant that helps users find and negotiate prices f
 - Product recommendations based on user preferences
 - Real-time price negotiation capabilities
 - Integration with vector database for product search
+- Agentic tool use
 
 ## ⚠️ Important Notes
 - **Hardware Requirement**: Currently only works with headphones due to playback/microphone limitations
